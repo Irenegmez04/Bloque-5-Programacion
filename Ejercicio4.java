@@ -9,7 +9,7 @@ public class Ejercicio4 {
         Scanner input = new Scanner(System.in);
 
         // Pedimos un carácter
-        System.out.println("Introduce un carácter: ");
+        System.out.println("Introduce un carácter alfabetico: ");
         char letra = input.next().charAt(0);
 
         // Comprobamos si es una vocal o una consonante
